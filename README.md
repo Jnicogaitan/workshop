@@ -9,7 +9,7 @@ This README would normally document whatever steps are necessary to get your app
 * Configuration
 * Dependencies
 * Database configuration
-* How to run tests....
+* How to run tests
 * Deployment instructions
 ### Contribution guidelines ###
 * Writing tests
@@ -20,7 +20,7 @@ This README would normally document whatever steps are necessary to get your app
 * Other community or team contact
 Repository in tutorials account
 MarkdownDemo
-Open pull requests
+
 110
 Branches
 1
